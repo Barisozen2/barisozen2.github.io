@@ -3,15 +3,15 @@
 
 A Python tool for visualising the first Brillouin zone, high-symmetry points, high-symmetry point paths and isoenergetic surfaces of band extrema in 3D.
 
-https://barisozen2.github.io/hcp_brillouin_zone.html
+https://Solid-State-Visualiser.github.io/hcp_brillouin_zone.html
 
 *example visualisation of HCP Brillouin zone (without interactive elements)* 
 
-https://barisozen2.github.io/Si_fcc_BZ_isosurf(GLLB-SC).html
+https://Solid-State-Visualiser.github.io/Si_fcc_BZ_isosurf(GLLB-SC).html
 
 *example visualisation of FCC Brillouin zone and Silicon isoenergetic surface of band extrema (without interactive elements)*
 
-https://barisozen2.github.io/MoS2_hcp_BZ_isosurf(GLLB-SC).html
+https://Solid-State-Visualiser.github.io/MoS2_hcp_BZ_isosurf(GLLB-SC).html
 
 *example visualisation of HCP Brillouin zone and Molybdenite isoenergetic surface of band extrema (without interactive elements)*
 
@@ -27,7 +27,7 @@ https://barisozen2.github.io/MoS2_hcp_BZ_isosurf(GLLB-SC).html
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Barisozen2/Barisozen2.github.io:
+   git clone https://github.com/Barisozen2/Solid-State-Visualiser.github.io:
 
 3. Navigate into the repository:
    ```bash
