@@ -27,7 +27,7 @@ https://barisozen2.github.io/MoS2_hcp_BZ_isosurf(GLLB-SC).html
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Barisozen2/Solid-State-Visualiser.github.io:
+   git clone https://github.com/Barisozen2/barisozen2.github.io:
 
 3. Navigate into the repository:
    ```bash
